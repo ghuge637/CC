@@ -5,3 +5,9 @@ the body actually stops beating, which is why they prefer crawling to swimmingâ€
 less tiring. Their blue blood comes from a copper-rich protein called hemocyanin,
 which is more efficient than hemoglobin for
 transporting oxygen in cold, low-oxygen environments like the deep sea.
+
+
+# CC
+git --version
+git clone https://github.com/your-username/your-repo.git
+cd your-repo

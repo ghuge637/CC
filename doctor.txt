@@ -11,3 +11,4 @@ transporting oxygen in cold, low-oxygen environments like the deep sea.
 git --version
 git clone link
 cd your-repo
+python hello.py
